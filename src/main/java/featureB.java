@@ -1,2 +1,2 @@
-public class featureB {
+public class featureB {//
 }
