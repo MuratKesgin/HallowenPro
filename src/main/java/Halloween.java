@@ -1,6 +1,6 @@
 public class Halloween {
 
     public static void main(String[] args) {
-        System.out.println("MGK");
+        System.out.println("MGK1");
     }
 }
